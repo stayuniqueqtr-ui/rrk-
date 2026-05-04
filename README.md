@@ -26,4 +26,41 @@
 
 ---
 
-## المكونات الرئيسية
+## المكونات الرئيسية                                                                                                                                                    
+                                                                                                                                                                  > +رصد الذكي
+
+> ├── Identity & Access Layer
+
+> ├── Intake & Validation Layer
+
+> ├── Workflow Orchestration Engine
+
+> ├── Business Rules Engine
+
+> ├── Event & Notification Engine
+
+> ├── Logistics & Fulfillment Engine
+
+> ├── Audit & Compliance Engine
+
+> └── Analytics & Intelligence Layer
+
+
+
+---
+
+## البنية التقنية
+
+
+
+| الطبقة | التقنية |
+
+|--------|---------|
+
+| **Backend** | .NET 8 · Clean Architecture · CQRS · MediatR |
+
+| **Database** | PostgreSQL · SQL Server |
+
+| **Messaging** | Apache Kafka / RabbitMQ |
+
+| **Infrastructure** | Docker · Kubernetes · Government Cloud |
